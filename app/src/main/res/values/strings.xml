@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">pr_3kurs_5_2_9_trifonov</string>
+    <string name="openmedia">Открыть мою медиатеку</string>
+    <string name="addmedia">Добавить в медиатеку</string>
+    <string name="showinfo">Здесь отобразится информация о фильме...</string>
+    <string name="findbyapi">Поиск по API</string>
+    <string name="year">Год</string>
+    <string name="title">Название фильма (Title)</string>
+    <string name="auth">Авторизация</string>
+    <string name="login">Логин</string>
+    <string name="pass">Пароль</string>
+    <string name="vhod">Войти</string>
+    <string name="mymedia">Моя медиатека</string>
+    <string name="deleteselected">Удалить выбранный фильм</string>
+    <string name="title_film">Название фильма</string>
+    <string name="_year">2024</string>
+    <string name="point">•</string>
+    <string name="genre">Жанр</string>
+    <string name="opisanie">Описание фильма...</string>
+</resources>
